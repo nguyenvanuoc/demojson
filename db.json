@@ -1,5 +1,7 @@
 {
-  "formio": [
+  "formio": {
+    "name":"formio",
+    "submission":[
     {
         "_id": "56b9ff3d74d7d2010082d584",
         "modified": "2016-02-09T15:01:17.905Z",
@@ -794,7 +796,8 @@
         "owner": "554806425867f4ee203ea861",
         "project": "5692b91fd1028f01000407e3"
     }
-],
+]
+  },
   "profile": {
     "name": "typicode"
   }
