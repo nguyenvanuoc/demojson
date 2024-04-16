@@ -4,77 +4,7 @@
           "_id": "56b9ff3d74d7d2010082d584",
           "modified": "2016-02-09T15:01:17.905Z",
           "form": "56b9590c74d7d2010082d513",
-          "data": {
-              "address": {
-                  "types": ["street_address"],
-                  "place_id": "Eig5ODIzIE1haW4sIERlIFZhbGxzIEJsdWZmLCBBUiA3MjA0MSwgVVNB",
-                  "partial_match": true,
-                  "geometry": {
-                      "viewport": {
-                          "southwest": {
-                              "lng": -91.4778055802915,
-                              "lat": 34.7795884197085
-                          },
-                          "northeast": {
-                              "lng": -91.4751076197085,
-                              "lat": 34.7822863802915
-                          }
-                      },
-                      "location_type": "RANGE_INTERPOLATED",
-                      "location": { "lng": -91.4764562, "lat": 34.7809451 },
-                      "bounds": {
-                          "southwest": { "lng": -91.476457, "lat": 34.7809297 },
-                          "northeast": { "lng": -91.4764562, "lat": 34.7809451 }
-                      }
-                  },
-                  "formatted_address": "9823 Main, De Valls Bluff, AR 72041, USA",
-                  "address_components": [
-                      {
-                          "types": ["street_number"],
-                          "short_name": "9823",
-                          "long_name": "9823"
-                      },
-                      {
-                          "types": ["route"],
-                          "short_name": "Main",
-                          "long_name": "Main"
-                      },
-                      {
-                          "types": ["locality", "political"],
-                          "short_name": "De Valls Bluff",
-                          "long_name": "De Valls Bluff"
-                      },
-                      {
-                          "types": ["administrative_area_level_3", "political"],
-                          "short_name": "Watensaw Township",
-                          "long_name": "Watensaw Township"
-                      },
-                      {
-                          "types": ["administrative_area_level_2", "political"],
-                          "short_name": "Prairie County",
-                          "long_name": "Prairie County"
-                      },
-                      {
-                          "types": ["administrative_area_level_1", "political"],
-                          "short_name": "AR",
-                          "long_name": "Arkansas"
-                      },
-                      {
-                          "types": ["country", "political"],
-                          "short_name": "US",
-                          "long_name": "United States"
-                      },
-                      {
-                          "types": ["postal_code"],
-                          "short_name": "72041",
-                          "long_name": "72041"
-                      }
-                  ]
-              },
-              "phoneNumber": "9879872232",
-              "email": "acme@example.com",
-              "name": "ACME Inc."
-          },
+          
           "created": "2016-02-09T15:01:17.905Z",
           "externalIds": [],
           "access": [],
