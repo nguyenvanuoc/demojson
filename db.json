@@ -8,9 +8,8 @@
   "profile": {
     "name": "typicode"
   },
-  "form": {
-    "content": [
-      {
+  "form": [
+    {
         "id": "668ce7a2a37767043ac34bde",
         "code": "VNPT-EFORM-2",
         "codePattern": null,
@@ -182,31 +181,5 @@
         "deploymentId": "test",
         "templateId": null
       }
-    ],
-    "pageable": {
-      "sort": {
-        "sorted": false,
-        "unsorted": true,
-        "empty": true
-      },
-      "offset": 0,
-      "pageNumber": 0,
-      "pageSize": 10,
-      "paged": true,
-      "unpaged": false
-    },
-    "last": false,
-    "totalPages": 8,
-    "totalElements": 79,
-    "size": 10,
-    "number": 0,
-    "sort": {
-      "sorted": false,
-      "unsorted": true,
-      "empty": true
-    },
-    "numberOfElements": 10,
-    "first": true,
-    "empty": false
-  }
+  ]
 }
