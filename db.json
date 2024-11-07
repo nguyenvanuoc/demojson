@@ -5,6 +5,20 @@
       "title": "hello"
     }
   ],
+  "keysuggest": [
+    {
+      "value": 1,
+      "label": "hoVaTen"
+    },
+    {
+      "value": 2,
+      "label": "name"
+    },
+    {
+      "value": 3,
+      "label": "gender"
+    }
+  ],
   "profile": {
     "name": "typicode"
   },
